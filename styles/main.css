@@ -1,0 +1,42 @@
+header {
+	background: #606060;
+	padding: 5px;
+}
+
+.header div {
+	display: inline;
+}
+
+.logo path {
+	stroke: #ffffff;
+	stroke-width: 15;
+}
+
+.logo circle {
+	stroke: #fff;
+	fill: #fff;
+	stroke-width: 8;
+}
+
+.menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.menu li {
+	padding: 10px 35px 0 0;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.menu a {
+	color: #fff;
+	font-weight: 200;
+	letter-spacing: 1px;
+}
+
+li.logo {
+	width: 50px;
+	padding: 5px 30px 1px 0;
+}
